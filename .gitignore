@@ -4,8 +4,10 @@
 
 
 
-.idea
-node_modules
+ .idea
+# node_modules
+# 我注释了 ,DNG
+
 
 
 ## Build generated

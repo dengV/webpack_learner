@@ -1,0 +1,27 @@
+{
+  "name": "webpack_learner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack src/js/app.js dist/bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengV/webpack_learner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengV/webpack_learner/issues"
+  },
+  "homepage": "https://github.com/dengV/webpack_learner#readme",
+  "dependencies": {
+    "save": "^2.3.2",
+    "webpack": "^4.5.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.14"
+  }
+}
